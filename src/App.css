@@ -37,7 +37,7 @@ input[type="text"] {
 }
 
 .play-button {
-  background-color: #4285f4;
+  background-color: blue;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -60,4 +60,8 @@ input[type="text"] {
 
 .move-display p {
   margin: 0 10px; /* Add some margin around the move displays */
+}
+
+.body {
+  background-color: red;
 }
